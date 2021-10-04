@@ -1,4 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=SakilMondal&include_all_commits=true&show_icons=true&hide_title=tru&hide_border=true" />
 
 ## 👋 Hi there, I'm Sakil
  - A passionate part time developer from India.
@@ -25,3 +24,10 @@
 
 ## 💰 Support my work
  - [PayPal](https://paypal.me/SakilMondal)
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=SakilMondal&date_format=j%20M%5B%20Y%5D"/></p>
+
+<h1 align="center">
+
+![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
+</h1>
