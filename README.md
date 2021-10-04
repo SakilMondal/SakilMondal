@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SakilMondal&include_all_commits=true&show_icons=true&hide_title=tru&hide_border=true" />
+
 ## 👋 Hi there, I'm Sakil
  - A passionate part time developer from India.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakilmondal&label=Profile%20views&color=0e75b6&style=flat" alt="sakilmondal" /> </p>
@@ -10,14 +12,7 @@
 [![Ubuntu 21.04](https://img.shields.io/badge/Ubuntu%2021%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/21.04/)
 [![Android 11](https://img.shields.io/badge/Android%2011-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-11/)
 
-
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakilmondal&layout=compact" alt="sakilmondal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakilmondal&show_icons=true" alt="sakilmondal" /></p>
 
 ## 📫 Get in touch
 <p align="left">
