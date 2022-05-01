@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakilmondal&label=Profile%20views&color=0e75b6&style=flat" alt="sakilmondal" /> </p>
 
 ## 🤔 What I'm doing
- - Maintaining PixelExperience, AospExtended, ForkLineageOS and Minimal kernel for Redmi Note 5 Pro.
+ - Maintaining PixelExperience, AospExtended, ForkLineageOS and Minimal kernel for Redmi Note 5 Pro and OnePlus Nord 2 5G.
 
 ## 💻 Working environment
 [![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-in/software-download/windows10)
